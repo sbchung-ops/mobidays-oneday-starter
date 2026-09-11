@@ -1,3 +1,9 @@
+# 이전 커리큘럼 자료 — 사용하지 않음
+
+현재 수업에서는 `steps/02-PRD.md`를 사용하세요.
+
+<!--
+
 # 04 · PRD 작성
 
 **목표**: 본 서비스 설계 문서 `service-prd.md`(Phase 1~N)를 문서화한다.
@@ -14,3 +20,4 @@
 **PROGRESS 기록**: 서비스 이름을 적는다.
 
 **깊이 읽기**: https://axlab-oneday-vibe.vercel.app/class/#prd
+-->
