@@ -13,10 +13,10 @@
 
 > 이 폴더에 수업용 스타터를 받아줘. 기존 파일은 삭제하거나 덮어쓰지 마. 폴더가 비어 있으면 아래 저장소를 현재 폴더에 그대로 clone해줘.
 >
-> https://github.com/yscriuf/classdosan-oneday-starter.git
+> https://github.com/sbchung-ops/classdosan-oneday-starter.git
 
 ```bash
-git clone https://github.com/yscriuf/classdosan-oneday-starter.git .
+git clone https://github.com/sbchung-ops/classdosan-oneday-starter.git .
 ```
 
 현재 폴더에 파일이 있다면 자동으로 지우지 말고 새 빈 폴더에서 다시 시작합니다.
