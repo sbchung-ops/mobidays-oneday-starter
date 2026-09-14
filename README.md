@@ -1,8 +1,8 @@
-# classdosan-oneday-starter
+# mobidays-oneday-starter
 
 비개발자가 Claude Code와 함께 3시간 안에 업무용 웹 도구의 핵심 시나리오 하나를 만드는 원데이 클래스용 진행 하네스입니다.
 
-온라인 교재: https://classdosan-oneday-vibe.vercel.app/class/
+온라인 교재: https://mobidays-oneday-vibe.vercel.app/class/
 
 `환경 확인 → 아이디어·구현 가능성 → PRD → Phase 1 구현·테스트 → 보안 점검·최종 배포 → 공유·마무리` 순서로 진행합니다.
 
@@ -15,10 +15,10 @@
 
 > 이 폴더에 수업용 스타터를 받아줘. 기존 파일은 삭제하거나 덮어쓰지 마. 폴더가 비어 있으면 아래 저장소를 현재 폴더에 그대로 clone해줘.
 >
-> https://github.com/sbchung-ops/classdosan-oneday-starter.git
+> https://github.com/sbchung-ops/mobidays-oneday-starter.git
 
 ```bash
-git clone https://github.com/sbchung-ops/classdosan-oneday-starter.git .
+git clone https://github.com/sbchung-ops/mobidays-oneday-starter.git .
 ```
 
 현재 폴더에 파일이 있다면 자동으로 지우지 말고 새 빈 폴더에서 다시 시작합니다.
