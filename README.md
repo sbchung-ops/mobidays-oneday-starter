@@ -11,17 +11,13 @@
 1. 회사 안내에 따라 사용할 도구(Claude Code 또는 Codex)의 계정과 로그인을 준비합니다.
 2. Node.js, Git, Vercel CLI와 승인된 Vercel 계정을 준비합니다. Vercel은 CLI 로그인 또는 회사가 안내한 토큰 중 하나로 인증합니다.
 3. 빈 폴더를 만든 뒤 Claude Code 또는 Codex에서 엽니다.
-4. 사용 중인 AI 도구에 아래처럼 요청합니다.
+4. 사용 중인 AI 도구에 아래 프롬프트를 보냅니다. 수강생이 터미널 명령을 직접 입력할 필요는 없습니다.
 
-> 이 폴더에 수업용 스타터를 받아줘. 기존 파일은 삭제하거나 덮어쓰지 마. 폴더가 비어 있으면 아래 저장소를 현재 폴더에 그대로 clone해줘.
+> 이 폴더에 수업 패키지를 받아줘. 폴더에 자동 생성된 숨김 파일이 남아 clone이 안 되면 그것들을 정리하고 현재 폴더에 그대로 flat하게 받아줘. 받은 뒤에 npm install까지 실행해서 바로 실행 가능한 상태로 만들어줘.
 >
-> https://github.com/sbchung-ops/mobidays-oneday-starter.git
+> 수업 패키지 주소: https://github.com/sbchung-ops/mobidays-oneday-starter.git
 
-```bash
-git clone https://github.com/sbchung-ops/mobidays-oneday-starter.git .
-```
-
-현재 폴더에 파일이 있다면 자동으로 지우지 말고 새 빈 폴더에서 다시 시작합니다.
+AI가 자동 생성된 숨김 파일이 아닌 기존 파일을 발견하면 삭제하지 않고 먼저 알려줘야 합니다. 설치가 끝나면 파일 목록과 `npm install` 완료 여부를 확인합니다.
 
 ## 수업에서 시작하기
 
