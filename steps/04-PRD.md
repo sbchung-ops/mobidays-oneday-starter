@@ -19,5 +19,5 @@
 
 **PROGRESS 기록**: 서비스 이름을 적는다.
 
-**깊이 읽기**: https://axlab-oneday-vibe.vercel.app/class/#prd
+**깊이 읽기**: https://classdosan-oneday-vibe.vercel.app/class/#prd
 -->

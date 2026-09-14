@@ -27,4 +27,4 @@
 
 **PROGRESS 기록**: 서비스 이름과 Phase 1 핵심 시나리오를 적고 02 단계를 완료한다.
 
-**깊이 읽기**: https://axlab-oneday-vibe.vercel.app/class/#prd
+**깊이 읽기**: https://classdosan-oneday-vibe.vercel.app/class/#prd
