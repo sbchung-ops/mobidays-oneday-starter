@@ -9,7 +9,7 @@
 ## 수업 전에 준비하기
 
 1. 회사 안내에 따라 Claude 요금제와 Claude Code Desktop 로그인을 준비합니다.
-2. Node.js, Git, Vercel CLI와 승인된 Vercel 계정·토큰을 준비합니다.
+2. Node.js, Git, Vercel CLI와 승인된 Vercel 계정을 준비합니다. Vercel은 CLI 로그인 또는 회사가 안내한 토큰 중 하나로 인증합니다.
 3. 빈 폴더를 만든 뒤 Claude Code에서 엽니다.
 4. Claude에게 아래처럼 요청합니다.
 
