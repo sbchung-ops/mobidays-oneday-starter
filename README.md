@@ -1,6 +1,6 @@
 # mobidays-oneday-starter
 
-비개발자가 Claude Code와 함께 3시간 안에 업무용 웹 도구의 핵심 시나리오 하나를 만드는 원데이 클래스용 진행 하네스입니다.
+비개발자가 Claude Code 또는 Codex와 함께 3시간 안에 업무용 웹 도구의 핵심 시나리오 하나를 만드는 원데이 클래스용 진행 하네스입니다.
 
 온라인 교재: https://mobidays-oneday-vibe.vercel.app/class/
 
@@ -8,10 +8,10 @@
 
 ## 수업 전에 준비하기
 
-1. 회사 안내에 따라 Claude 요금제와 Claude Code Desktop 로그인을 준비합니다.
+1. 회사 안내에 따라 사용할 도구(Claude Code 또는 Codex)의 계정과 로그인을 준비합니다.
 2. Node.js, Git, Vercel CLI와 승인된 Vercel 계정을 준비합니다. Vercel은 CLI 로그인 또는 회사가 안내한 토큰 중 하나로 인증합니다.
-3. 빈 폴더를 만든 뒤 Claude Code에서 엽니다.
-4. Claude에게 아래처럼 요청합니다.
+3. 빈 폴더를 만든 뒤 Claude Code 또는 Codex에서 엽니다.
+4. 사용 중인 AI 도구에 아래처럼 요청합니다.
 
 > 이 폴더에 수업용 스타터를 받아줘. 기존 파일은 삭제하거나 덮어쓰지 마. 폴더가 비어 있으면 아래 저장소를 현재 폴더에 그대로 clone해줘.
 >
@@ -25,7 +25,7 @@ git clone https://github.com/sbchung-ops/mobidays-oneday-starter.git .
 
 ## 수업에서 시작하기
 
-프로젝트를 Claude Code Desktop으로 연 뒤 다음 문장으로 시작합니다.
+프로젝트를 Claude Code 또는 Codex로 연 뒤 다음 문장으로 시작합니다.
 
 > PROGRESS.md를 읽고 현재 단계부터 수업을 시작해줘.
 
@@ -42,7 +42,8 @@ git clone https://github.com/sbchung-ops/mobidays-oneday-starter.git .
 
 ## 진행 파일
 
-- `CLAUDE.md`: Claude가 따라야 할 전체 수업 규칙
+- `CLAUDE.md`: Claude Code가 따라야 할 전체 수업 규칙
+- `AGENTS.md`: Codex가 따라야 할 동일한 전체 수업 규칙
 - `PROGRESS.md`: 현재 단계와 핵심 결과 기록
 - `steps/`: 단계별 진행 지시
 
